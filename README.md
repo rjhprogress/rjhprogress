@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rjhprogress
 - 👀 I’m interested in design and coding visually appealing interactive experiences.
 - 🌱 I’m currently learning design and development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in the future on various open source projects.
 - 📫 Reach me at rjh@theprogresslab.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rah'sh @rjhprogress
 - 👀 I’m  interesting in building websites that attract customers and increase profit.
-- 🌱 I’m currently a designer, developer, boxing training, aspiring pro boxer.
+- 🌱 I’m currently a designer, developer, boxing training, and aspiring pro boxer.
 - 💞️ I’m looking to hone my web dev skills.
 - 📫 Reach me at conntect@rahshoul.com 
 

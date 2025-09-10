@@ -2,7 +2,7 @@
 - 👀 I’m  interesting in building websites that attract customers and increase profit.
 - 🌱 I’m currently a designer, developer, boxing trainer, and aspiring pro boxer.
 - 💞️ I’m looking to hone my web dev skills.
-- 📫 Reach me at conntect@rahshoul.com 
+- 📫 Reach me at connect@rahshoul.com 
 
 <!---
 rjhprogress/rjhprogress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

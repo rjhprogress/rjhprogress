@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rjhprogress
-- 👀 I’m interested in design and coding visually appealing interactive experiences.
-- 🌱 I’m currently a Web Developer.
-- 💞️ I’m looking to collaborate in the future on various open source projects.
-- 📫 Reach me at rjh@theprogresslab.com
+- 👋 Hi, I’m Rah'sh @rjhprogress
+- 👀 I’m  interesting in building websites that increase profit.
+- 🌱 I’m currently a designer, developer, boxing training, aspiring pro boxer.
+- 💞️ I’m looking to hone my web dev skills.
+- 📫 Reach me at conntect@rahshoul.com 
 
 <!---
 rjhprogress/rjhprogress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
